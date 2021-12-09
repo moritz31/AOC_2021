@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PowerConsumptionCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-09T14:28:54" hostname="fedora" time="0.023">
+  <properties/>
+  <testcase name="calculateLifeSupportRatingTest()" classname="PowerConsumptionCalculatorTest" time="0.023"/>
+  <system-out><![CDATA[23
+10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

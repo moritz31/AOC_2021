@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HydrothermalVentAvoidanceSystemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-09T20:34:37" hostname="fedora" time="0.039">
+  <properties/>
+  <testcase name="testAvoidancePointCalculation()" classname="HydrothermalVentAvoidanceSystemTest" time="0.039"/>
+  <system-out><![CDATA[1010000110
+0111000200
+0020101110
+0001020200
+0112313211
+0001020000
+0010001000
+0100000100
+1000000010
+2221110000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+rootProject.name = '2021_AoC'
+include '1_day'
+include '2_day'
+include '3_day'
+include '4_day'
+include '5_day'
+include '6_day'
+

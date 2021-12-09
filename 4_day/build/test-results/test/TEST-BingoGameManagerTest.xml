@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BingoGameManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-09T16:31:58" hostname="fedora" time="0.036">
+  <properties/>
+  <testcase name="testSampleGameLastWin()" classname="BingoGameManagerTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

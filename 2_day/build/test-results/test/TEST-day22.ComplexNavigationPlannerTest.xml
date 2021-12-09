@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="day22.ComplexNavigationPlannerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-09T11:36:13" hostname="fedora" time="0.045">
+  <properties/>
+  <testcase name="testReadSimpleNavigation()" classname="day22.ComplexNavigationPlannerTest" time="0.035"/>
+  <testcase name="testSimpleNavigation()" classname="day22.ComplexNavigationPlannerTest" time="0.009"/>
+  <system-out><![CDATA[Position[horizontal=15, depth=60, aim=10]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
